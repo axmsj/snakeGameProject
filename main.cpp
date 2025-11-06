@@ -6,5 +6,8 @@ using std::string;
 
 // main function
 int main() {
-    cout << "test" << endl;
+    string name;
+    cout << "Enter your name" << endl;
+    cin>>name;
+    cout<<"Your Name: "<<name<<endl;
 };
