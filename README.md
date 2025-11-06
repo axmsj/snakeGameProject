@@ -7,7 +7,6 @@ It serves as the **final project for Programming 2**, demonstrating the use of *
 ## 🧰 Technologies Used
 - **C++ (C++17/20)**
 - **Qt Framework (Qt Widgets / QMainWindow / QTimer / QKeyEvent)**
-- **Qt Creator IDE**
 - **Event-driven programming**
 
 ## 🕹️ Gameplay
